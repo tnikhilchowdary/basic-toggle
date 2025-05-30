@@ -4,7 +4,7 @@ This is a simple React application that toggles the visibility of a text block u
 
 ## Screenshot
 
-![Toggle Screenshot](assets/toggle.png)
+![Toggle Screenshot](assests/toggle.png)
 
 ## Features
 - Toggle visibility with a button
